@@ -8,6 +8,9 @@ function Intro() {
         <p>
           Do interior de São Paulo, curioso, viciado em chocolate e apaixonado por novos desafios. Sigo aprendendo e evoluindo com cada um deles.
         </p>
+        <p>
+          Whatever
+        </p>
       </div>
       <div>
 
